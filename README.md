@@ -14,10 +14,9 @@ A simple Android Application with Room and Unit testing.
 
 ## Screenshots
 
-<img src="all_notes_fragment.png" alt="screenshot" width="280"/>
-<img src="form_view.png" alt="screenshot" width="280"/>
-<img src="form_view_2.png" alt="screenshot" width="280"/> 
-<img src="select_date_picker.png" alt="screenshot" width="280"/>
+<img src="all_notes_fragment.jpg" alt="screenshot" width="280"/> <img src="form_view.jpg" alt="screenshot" width="280"/>
+<img src="form_view_2.jpg" alt="screenshot" width="280"/> 
+<img src="select_date_picker.jpg" alt="screenshot" width="280"/>
 
 
 ## Autor ✒️
